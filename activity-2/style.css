@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  border-sizing: border-box;
+  font-size: 16px;
+}
+
+.word-one, .word-three {
+  padding: 32px;
+}
+
+.word-one {
+  background-color: #bc2929;
+  border: 2px solid blue;
+  margin: 12px;
+}
+
+.word-two {
+  background-color: blue;
+  border: 2px solid red;
+  margin: 12px 0 0 0;
+}
+
+.word-three {
+  background-color: orange;
+  border: 2px solid red;
+  margin: 48px 0 0 70%;
+}
+ 
+
